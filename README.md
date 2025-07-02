@@ -1,6 +1,7 @@
 Trabalho desenvolvido por: Isabele Correa, Isabella Crippa, Vinicius Cittadin, João Paulo Mizejeski, Viktor Raulino Boeng
 
 Sistema de Ranking de Vendedores em Python
+
 Este projeto apresenta um sistema desenvolvido em Python para cadastro e ordenação de vendedores com base no volume de vendas.
 A aplicação possui interface gráfica moderna (CustomTkinter) e permite visualizar o ranking em tempo real, gerar relatórios em formato .txt e criar 
 gráficos de barras com os dados inseridos. As principais funcionalidades incluem:
